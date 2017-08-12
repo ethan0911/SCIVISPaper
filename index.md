@@ -17,6 +17,7 @@ Anyone who is interested and willing to join is welcomed.
 |2017   |[A statistical volume rendering framework for visualization of uncertain data](http://ieeexplore.ieee.org/document/7778257/)|**Tushar Athawale**| 8/23/2017|Room 3001|
 |2017   |[A statistical volume rendering framework for visualization of uncertain data](http://ieeexplore.ieee.org/document/7778257/)|**Tushar Athawale**| 8/23/2017|Room 3001|
 |2017   |[A statistical volume rendering framework for visualization of uncertain data](http://ieeexplore.ieee.org/document/7778257/)|**Tushar Athawale**| 8/23/2017|Room 3001|
+|2019   |[How to cook](http://ieeexplore.ieee.org/document/7778257/)|**Mengjiao Han**| 8/23/2017|Room 301|
 
 
 
